@@ -16,5 +16,11 @@ public class DisplayNumbers {
             }
 
         }
+        System.out.println("-------------zadanie3--------------");
+        char a = 'a';
+        char z = 'z';
+        for(int i = 'a';i <= 'z';i++){
+            System.out.println((char)i);
+        }
     }
 }
